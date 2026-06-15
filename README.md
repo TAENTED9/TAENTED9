@@ -22,7 +22,6 @@ I do not just build pages. I build systems.
 
 ## Current Focus
 
-- **Squad Hackathon (GTBank)** — payment integrations and product workflows
 - **Her-Homes** — property and home financing platform
 - **High-signal engineering** — scalable systems, secure flows, and reliable deployment
 
