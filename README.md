@@ -22,8 +22,7 @@ I do not just build pages. I build systems.
 
 ## Current Focus
 
-- **Her-Homes** — property and home financing platform
-- **High-signal engineering** — scalable systems, secure flows, and reliable deployment
+- **High-signal engineering** - scalable systems, secure flows, and reliable deployment
 
 ---
 
